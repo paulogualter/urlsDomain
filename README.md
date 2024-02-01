@@ -1,7 +1,6 @@
 # urlsDomain
 Aplicação para realização de Recon, principalmente obter subdomínios. 
-
-<video src="https://www.youtube.com/watch?v=W1G11I_nMOQ&themeRefresh=1"/>
+<img src="https://ibb.co/cXH4wyW"/>
 
 # Instalação Dependências
 <code>chmod +x setup.sh
@@ -13,3 +12,4 @@ cd urlsDomain
 chmod +x urlsDomain
 ./urlsDomain exemplo.com.br</code>
 
+<img src="https://ibb.co/cXH4wyW"/>
