@@ -10,13 +10,13 @@ Aplicação para realização de Recon, principalmente obter subdomínios.
 <code>
   git clone https://github.com/paulogualter/urlsDomain
 cd urlsDomain
-  chmod +x setup.sh
-chmod +x urlsDomain.sh
+  chmod +x setup
+chmod +x urlsDomain
 
 ./setup.sh
 </code>
 
 
 # Como usar
-<code>./urlsDomain exemplo.com.br</code>
+<code>urlsDomain exemplo.com.br</code>
 
