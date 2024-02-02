@@ -63,5 +63,6 @@ qtd=$(cat resultadosIPs.txt | wc -l)
 echo -e "Total de Subdominios Validos = ${qtd}" 
 echo -e "\n"
 echo "Scan em https://www.${dominio} concluido com Exito"
+sudo rm resultadosIPs.txt subs.txt
 echo -e "${GREEN}[+] Finalizado [+]${NC}"
 
