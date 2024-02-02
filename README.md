@@ -6,34 +6,10 @@ Aplicação para realização de Recon, principalmente obter subdomínios.
 
 # Instalação Dependências
 <code>
-Lolcat
-sudo apt install lolcat -y
+chmod +x setup.sh
+./setup.sh
 </code>
 
-<code>
-Subfinder
-sudo apt install subfinder -y
-</code>
-
-<code>
-Sublist3r
-sudo apt install sublist3r -y
-</code>
-
-<code>
-AssetFinder
-go install -v github.com/tomnomnom/assetfinder@latest
-</code>
-
-<code>
-anew
-go install -v github.com/tomnomnom/anew@latest
-</code>
-
-<code>
-httpx
-go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
-</code>
 
 # Como usar
 <code>git clone https://github.com/paulogualter/urlsDomain
