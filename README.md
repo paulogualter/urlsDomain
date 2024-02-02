@@ -8,22 +8,31 @@ Aplicação para realização de Recon, principalmente obter subdomínios.
 <code>
 Lolcat
 sudo apt install lolcat -y
+</code>
 
+<code>
 Subfinder
-sudo apt install subfinder
+sudo apt install subfinder -y
+</code>
 
+<code>
 Sublist3r
-sudo apt install sublist3r
+sudo apt install sublist3r -y
+</code>
 
+<code>
 AssetFinder
 go install -v github.com/tomnomnom/assetfinder@latest
+</code>
 
+<code>
 anew
 go install -v github.com/tomnomnom/anew@latest
+</code>
 
+<code>
 httpx
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
-
 </code>
 
 # Como usar
