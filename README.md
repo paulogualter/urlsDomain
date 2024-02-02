@@ -8,12 +8,12 @@ Aplicação para realização de Recon, principalmente obter subdomínios.
 
 # Instalação Dependências
 <code>
-  git clone https://github.com/paulogualter/urlsDomain
+git clone https://github.com/paulogualter/urlsDomain
 cd urlsDomain
-  chmod +x setup
+chmod +x setup
 chmod +x urlsDomain
 
-./setup.sh
+./setup
 </code>
 
 
