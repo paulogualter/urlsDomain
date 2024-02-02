@@ -14,7 +14,6 @@ sudo apt install subfinder
 
 Sublist3r
 sudo apt install sublist3r
-------------------------------------
 
 AssetFinder
 go install -v github.com/tomnomnom/assetfinder@latest
