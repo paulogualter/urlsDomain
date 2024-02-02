@@ -30,7 +30,7 @@ dominio=$1
 if [ -z "$dominio" ]
 then
     echo -e "Por favor, forneça um domínio como argumento. Sem http://www ou https://"
-    echo "Modo de Usar: ./urlsDomain.sh exemplo.com.br"
+    echo "Modo de Usar: urlsDomain exemplo.com.br"
     exit 1
 fi
 
