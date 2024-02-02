@@ -28,4 +28,5 @@ go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 
 # Mover conteúdo de /root/go/bin/ para /usr/bin/
 sudo mv /root/go/bin/* /usr/bin/
+sudo cp ./urlsDomain /usr/bin/.
 
