@@ -40,7 +40,7 @@ $dev = 2>/dev/null
 # Busca por Subdominios
 echo -e "Busca de subdominios sendo realizado e validado no dominio https://www."$dominio "\n"
 sleep 2
-echo - "[+] Processo em adanmento [+]"
+echo - "[+] Processo em andamento [+]"
 
 subfinder -d $dominio -silent $dev | anew | tee subs.txt
 assetfinder --subs-only $dominio $dev | anew >> subs.txt
